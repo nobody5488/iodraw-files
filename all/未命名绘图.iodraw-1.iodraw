@@ -40,9 +40,9 @@
         <mxCell id="03Ps3KgmrGk516NfmilY-2" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.197;exitY=1.075;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="220" as="sourcePoint" />
-            <mxPoint x="70" y="410" as="targetPoint" />
+            <mxPoint x="70" y="310" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="140" y="190" />
+              <mxPoint x="70" y="70" />
               <mxPoint x="50" y="130" />
               <mxPoint x="80" y="170" />
             </Array>
